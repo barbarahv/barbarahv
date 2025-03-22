@@ -4,7 +4,7 @@
 
 <img src= "https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif"   width="1000" height="200" ></img>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahv&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahv&layout=pie)](https://github.com/anuraghazra/github-readme-stats) ![barbarahv GitHub stats](https://github-readme-stats.vercel.app/api?username=barbarahv&show_icons=true&theme=radical)
 
 
 ![barbarahv GitHub stats](https://github-readme-stats.vercel.app/api?username=barbarahv&show_icons=true&theme=radical)
