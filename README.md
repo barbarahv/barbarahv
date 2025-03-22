@@ -7,9 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahv&layout=pie)](https://github.com/anuraghazra/github-readme-stats) ![barbarahv GitHub stats](https://github-readme-stats.vercel.app/api?username=barbarahv&show_icons=true&theme=radical)
 
 
-![barbarahv GitHub stats](https://github-readme-stats.vercel.app/api?username=barbarahv&show_icons=true&theme=radical)
-
-
 
 
 <img src= "https://media.giphy.com/media/wKWxuUOcp9fdvckBty/giphy.gif"  width="1000" height="251" ></img>
