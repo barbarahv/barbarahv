@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bárbara-hansen/)  [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Babihansenv)  [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/babihansenv/) 
 
-<img src= "https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif"   width="460" height="100" ></img>
+<img src= "https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif"   width="700" height="100" ></img>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbarahv&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
 
